@@ -1,0 +1,73 @@
+body{
+ 	background: linear-gradient(180deg, rgba(153,204,255,0), rgba(153,204,255,0.5));
+}
+
+h1{
+	text-align: center;
+	color: black;
+  	font-size: 2em;
+  	padding-top: 40px;
+  	width: 100%;
+  	font-family: Georgia;
+  	letter-spacing: 3px;
+}
+
+h2{
+	font-family: Georgia;
+	color:#004d99;
+}
+.seven{
+	font-family: Helvetica;
+	color: #ff99ff;
+	font-size: 3em;
+}
+
+.principles{
+	font-family: Courier New;
+	color: #ff99ff;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+
+.typographic{
+	font-family: Garamond;
+	color: #0066cc;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+}
+
+.typographic:hover{
+	font-family: Helvetica;
+	color: #ff9966;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+}
+
+.byline{
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	color: grey;
+}
+
+p{
+	font-family: Helvetica;
+	line-height: 1.3em;
+  	text-align: middle;
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
